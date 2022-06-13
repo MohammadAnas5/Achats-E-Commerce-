@@ -20,7 +20,7 @@ this Project.
 - Function Based View
 - Form
 - Template Inheritance
-- Model Form
+- Model Form [link](/Achats-E-Commerce-/app/models.py )
 - Using Template File
 - Config Media
 - Using Static File (CSS, JS, Image)
