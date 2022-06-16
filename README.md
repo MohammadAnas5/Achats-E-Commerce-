@@ -1,10 +1,6 @@
 
 # Achats-E-Commerce-
-Achats (French Word means "Shopping") is an Django E-Commerce Project which has Customer 
-Registration, Login, Password Reset, Password Change, 
-Add to Cart, Quantity Update, Paypal Payment Gateway 
-and much more. I hope that you will learn and enjoy 
-this Project.
+Achats (French Word means "Shopping") is an Django E-Commerce Project which will be limited to some functions of the e-commerce website. It will display products, customers can select catalogs and select products, and can remove products from their cart specifying the quantity of each item. Selected items will be collected in a cart. At checkout, the item on the card will be presented as an order. Customers can pay for the items in the cart to complete an order and it has Customer Registration, Login, Password Reset, Password Change, Add to Cart, Quantity Update, Paypal Payment Gateway and much more. I hope that you will learn and enjoy this Project.
 
 ## Flow of Project
 
